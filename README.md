@@ -1,6 +1,6 @@
-# 🧠 File Presentor – AI-Powered Document Analyzer & Presenter
+# 🧠 AI Presenter – AI-Powered Document Analyzer & Presenter
 
-**File Presentor** is a Next.js 15 application that transforms your static documents into dynamic, presentation-ready content. Upload a PDF, spreadsheet, or other file type — and let the app intelligently extract the core data, visualize it, and export it as a beautiful presentation.
+**File Presenter** is a Next.js 15 application that transforms your static documents into dynamic, presentation-ready content. Upload a PDF, spreadsheet, or other file type — and let the app intelligently extract the core data, visualize it, and export it as a beautiful presentation.
 
 ---
 
