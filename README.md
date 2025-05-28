@@ -8,7 +8,7 @@
 
 | 📄 Original PDF                                                                 | 🎞️ AI-Generated Presentation                                                   |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![Original PDF](./public/images/original-pdf.png)                               | ![Generated Presentation](./public/images/generated-pptx.png)                   |
+| ![Original PDF](./public/images/original-pdf.png)                               | ![Generated Presentation](./public/Screenshot%202025-05-28%20141231.png)                   |
 
 > From research reports to business data — instantly convert documents into shareable slide decks.
 
