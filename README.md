@@ -47,7 +47,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/file-presentor.git
+git clone https://github.com/ivanprejoles/ai-presenter.git
 cd file-presentor
-pnpm install
-pnpm dev
+npm install
+npm dev
